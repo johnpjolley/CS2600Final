@@ -16,4 +16,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tu0KpiV2pBE" target="_blank">Code Editor vs an IDE (YouTube, 4:43)<br><img src="http://img.youtube.com/vi/tu0KpiV2pBE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+## Selecting an IDE and IDE options
 When selecting an IDE, it helps to know what IDEs are available and suit your needs. It is important to consider the requirements for your project when selecting an IDE (including operating system, programming language(s), and cost) since some IDEs are better suited for certain tasks than others. For help finding the right IDE, here is a [list of IDEs and details about them.](https://stackify.com/top-integrated-developer-environments-ides/)
