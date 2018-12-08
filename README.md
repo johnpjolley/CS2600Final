@@ -18,6 +18,9 @@ According to [this techopedia article](https://www.techopedia.com/definition/268
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><br><br>
 
 ## What is the difference between IDEs and regular code editors
+As explained in [this stack overflow response](https://stackoverflow.com/questions/19185139/difference-between-a-ide-and-text-editor), the difference between a code editor and an IDE is
+>IDE stands for "Integrated development environment" not just a tool where you write the code ,but you can also compile it and debug it.. text editors in their nature, usually don't do that, they tend to go for a broader approach.. be able to edit all types of files, instead of specializing in a particular type or language
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tu0KpiV2pBE" target="_blank">Code Editor vs an IDE (YouTube, 4:43)<br><img src="http://img.youtube.com/vi/tu0KpiV2pBE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
