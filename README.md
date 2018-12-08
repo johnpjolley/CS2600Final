@@ -9,7 +9,7 @@ Content:
 3. List of IDEs
 
 ## What are Integrated Development Environments (IDEs)?
-According to [techopedia article](https://www.techopedia.com/definition/26860/integrated-development-environment-ide), an IDE is defined as
+According to [this techopedia article](https://www.techopedia.com/definition/26860/integrated-development-environment-ide), an IDE is defined as
 >An Integrated Development Environment (IDE) is an application that facilitates application development. In general, an IDE is a graphical user interface (GUI)-based workbench designed to aid a developer in building software applications with an integrated environment combined with all the required tools at hand.
 
 >Most common features, such as debugging, version control and data structure browsing, help a developer quickly execute actions without switching to other applications. Thus, it helps maximize productivity by providing similar user interfaces (UI) for related components and reduces the time taken to learn the language. An IDE supports single or multiple languages.
